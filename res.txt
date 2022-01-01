@@ -1,0 +1,108 @@
+Albert est le grand pere de Stephanie
+Daniel est l'oncle de Stephanie
+Herve est le cousin de Stephanie
+Laurent est le cousin de Stephanie
+Nicolas est le cousin de Stephanie
+Thierry est le frere de Stephanie
+Sylvain est le frere de Stephanie
+Philipe est le cousin de Stephanie
+Eric est le cousin de Stephanie
+Eugenie est la grand mere de Stephanie
+Martine est la tante de Stephanie
+Christiane est la mere de Stephanie
+Stephanie est la cousine de Herve
+Stephanie est la cousine de Laurent
+Stephanie est la cousine de Nicolas
+Stephanie est la soeur de Thierry
+Stephanie est la soeur de Sylvain
+Stephanie est la cousine de Philipe
+Stephanie est la cousine de Eric
+Albert est le pere de Christiane
+Daniel est le frere de Christiane
+Eugenie est la mere de Christiane
+Martine est la soeur de Christiane
+Christiane est la soeur de Daniel
+Christiane est la tante de Herve
+Christiane est la tante de Laurent
+Christiane est la tante de Nicolas
+Christiane est la mere de Thierry
+Christiane est la mere de Sylvain
+Christiane est la tante de Philipe
+Christiane est la tante de Eric
+Christiane est la soeur de Martine
+Albert est le pere de Martine
+Daniel est le frere de Martine
+Eugenie est la mere de Martine
+Martine est la soeur de Daniel
+Martine est la mere de Herve
+Martine est la mere de Laurent
+Martine est la mere de Nicolas
+Martine est la tante de Thierry
+Martine est la tante de Sylvain
+Martine est la tante de Philipe
+Martine est la tante de Eric
+Eugenie est la mere de Daniel
+Eugenie est la grand mere de Herve
+Eugenie est la grand mere de Laurent
+Eugenie est la grand mere de Nicolas
+Eugenie est la grand mere de Thierry
+Eugenie est la grand mere de Sylvain
+Eugenie est la grand mere de Philipe
+Eugenie est la grand mere de Eric
+Albert est le grand pere de Eric
+Daniel est le pere de Eric
+Herve est le cousin de Eric
+Laurent est le cousin de Eric
+Nicolas est le cousin de Eric
+Thierry est le cousin de Eric
+Sylvain est le cousin de Eric
+Philipe est le frere de Eric
+Eric est le cousin de Herve
+Eric est le cousin de Laurent
+Eric est le cousin de Nicolas
+Eric est le cousin de Thierry
+Eric est le cousin de Sylvain
+Eric est le frere de Philipe
+Albert est le grand pere de Philipe
+Daniel est le pere de Philipe
+Herve est le cousin de Philipe
+Laurent est le cousin de Philipe
+Nicolas est le cousin de Philipe
+Thierry est le cousin de Philipe
+Sylvain est le cousin de Philipe
+Philipe est le cousin de Herve
+Philipe est le cousin de Laurent
+Philipe est le cousin de Nicolas
+Philipe est le cousin de Thierry
+Philipe est le cousin de Sylvain
+Albert est le grand pere de Sylvain
+Daniel est l'oncle de Sylvain
+Herve est le cousin de Sylvain
+Laurent est le cousin de Sylvain
+Nicolas est le cousin de Sylvain
+Thierry est le frere de Sylvain
+Sylvain est le cousin de Herve
+Sylvain est le cousin de Laurent
+Sylvain est le cousin de Nicolas
+Sylvain est le frere de Thierry
+Albert est le grand pere de Thierry
+Daniel est l'oncle de Thierry
+Herve est le cousin de Thierry
+Laurent est le cousin de Thierry
+Nicolas est le cousin de Thierry
+Thierry est le cousin de Herve
+Thierry est le cousin de Laurent
+Thierry est le cousin de Nicolas
+Albert est le grand pere de Nicolas
+Daniel est l'oncle de Nicolas
+Herve est le frere de Nicolas
+Laurent est le frere de Nicolas
+Nicolas est le frere de Herve
+Nicolas est le frere de Laurent
+Albert est le grand pere de Laurent
+Daniel est l'oncle de Laurent
+Herve est le frere de Laurent
+Laurent est le frere de Herve
+Albert est le grand pere de Herve
+Daniel est l'oncle de Herve
+Albert est le pere de Daniel
